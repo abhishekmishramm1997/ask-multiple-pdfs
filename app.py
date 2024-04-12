@@ -12,6 +12,7 @@ from langchain.llms import HuggingFaceHub
 import os
 
 
+#Keys
 os.environ['OPENAI_API_KEY'] = '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'
 
 
